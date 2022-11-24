@@ -2,7 +2,7 @@
 
 °👀 I’m interested in programming.
 
-°🌱 I’m currently learning HTML, CSS and Java.
+°🌱 I’m currently learning some new languages like C++, HTML and CSS.
 
 °💞️ I'm looking to collaborate in the community
 
